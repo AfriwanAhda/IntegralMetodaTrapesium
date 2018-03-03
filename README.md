@@ -1,7 +1,7 @@
 # IntegralMetodaTrapesium
 Integral Approximation with Trapezoidal Method.
 
-# Compile With Linux
+# Linux
 Compile this code with Linux OS :
 ```shell
 >> gcc intari.c -o intari
@@ -10,7 +10,8 @@ Compile this code with Linux OS :
 >> ./intari
 ```
 
-# Compile With Macintosh
+# Macintosh
+Compile this code with Mac OS :
 ```shell
 >> ./intari
 ```
