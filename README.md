@@ -1,6 +1,11 @@
 # IntegralMetodaTrapesium
 Integral Approximation with Trapezoidal Method.
 
+# Compile With Linux
+Compile this code with Linux OS :
+>> gcc intari.c -o intari
+>> ./intari
+
 # MIT License
 
 Copyright (c) 2008-2018 Afriwan Ahda. All rights reserved.
