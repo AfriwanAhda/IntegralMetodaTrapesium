@@ -1,2 +1,2 @@
 # IntegralMetodaTrapesium
-Aproksimasi Integral dengan Metoda Trapesium
+Integral Approximation with Trapezoidal Method.
