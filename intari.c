@@ -1,3 +1,5 @@
+// Created by Afriwan Ahda on 2008.
+
 #include <stdio.h>
 
 float fx(float x)
