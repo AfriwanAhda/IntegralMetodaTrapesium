@@ -3,8 +3,12 @@ Integral Approximation with Trapezoidal Method.
 
 # Compile With Linux
 Compile this code with Linux OS :
+```shell
 >> gcc intari.c -o intari
+```
+```shell
 >> ./intari
+```
 
 # MIT License
 
